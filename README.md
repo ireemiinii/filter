@@ -1,5 +1,3 @@
-# image_processing_2
-
 ### 1.Filter
 I applied filter 1 to both image. The first filter has a value of 1 in the upper right corner, so the image 
 makes a shift to the left in the diagonal. 
